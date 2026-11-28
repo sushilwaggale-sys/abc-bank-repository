@@ -1,0 +1,21 @@
+# Payment Feature
+
+## Purpose
+
+Let a user review a payment before submitting it.
+
+## Payment details
+
+The payment form should include:
+
+- Amount
+- Recipient
+- Payment date
+- A **Review payment** button
+
+## Expected behavior
+
+- Show a summary of the amount and recipient before submission.
+- Ask the user to confirm before submitting the payment.
+- Show a clear message if the payment is accepted or could not be completed.
+- Never include real bank account numbers, passwords, or other private information in this demo.
