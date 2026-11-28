@@ -1,0 +1,13 @@
+Feature Order
+Purpose
+Let users arrange features in the order they prefer.
+Feature information
+Each feature should show:
+- Name
+- Short description
+- Current position
+Expected behavior
+- Show the features in a clear list.
+- Let users move features up or down.
+- Save the new order.
+- Keep the updated order when the user returns.
